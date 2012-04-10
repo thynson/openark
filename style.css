@@ -337,3 +337,7 @@ dl, dd, dt {
 .sitemeta ul{
     font-size: 11pt;
 }
+
+#wpadminbar {
+    box-shadow: 0 1px 5px black;
+}
