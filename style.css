@@ -85,16 +85,13 @@ form {
 }
 #menu ul li {
     float: left;
+    margin: 0 2em;
 }
 #menu ul li a {
-    font-size: 11pt;
-    padding-left: 15px;
+    font-size: 12pt;
     font-weight: nomal;
     text-decoration: none;
     color: #505050;
-
-    margin-left: 15px;
-    border-left: 1px solid #e0e0e0;
 }
 #menu ul li a:hover {
     color: #106622;
