@@ -95,7 +95,7 @@ form {
     border-left: 1px solid #e0e0e0;
 }
 #menu ul li a:hover {
-    color: #f26522;
+    color: #106622;
 }
 
 #blogdescription {
@@ -123,7 +123,7 @@ form {
 }
 
 #sitemeta a:hover {
-    color: #f26522;
+    color: #106622;
 }
 
 #meta li.rss {
@@ -135,7 +135,7 @@ form {
     margin: 0px 20px 0px 20px;
 }
 #newsflash a {
-    color: #f26522;
+    color: #106622;
 }
 
 #bd {
@@ -184,7 +184,7 @@ li.vategories ul {
     text-decoration: none;
 }
 #sidebar a:hover {
-    color: #f26522;
+    color: #106622;
 }
 #sidebar h2 {
     font-size: 12pt;
@@ -193,7 +193,7 @@ li.vategories ul {
     display: inline;
 }
 #aboutme a {
-    color: #f26522;
+    color: #106622;
     text-decoration: none;
 }
 
@@ -213,28 +213,27 @@ li.vategories ul {
     padding-top: 10px;
 }
 #yui-main a {
-    color: #f26522;
+    color: #106622;
     text-decoration: none;
 }
 #yui-main h1 {
     display: inline;
-    color: #f26522;
+    color: #106622;
     font-size: 18pt;
     text-decoration: none;
     font-weight: normal;
     font-family: 'Times New Roman', 'DejaVu Serif', serif;
 }
 #yui-main h1 a {
-    color: #505050;
     text-decoration: none;
 }
 #yui-main h1 a:hover {
-    color: #f26522;
+    color: #106622;
 }
 
 #yui-main h2 {
     display: inline;
-    color: #f26522;
+    color: #106622;
     font-size: 14pt;
     text-decoration: none;
     font-weight: normal;
@@ -244,13 +243,13 @@ li.vategories ul {
     font-size: 14pt;
 }
 #yui-main h2 a:hover {
-    color: #f26522;
+    color: #106622;
 }
 blockquote {
     margin: 10px;
     font-size: 10pt;
     padding: 10px;
-    border: 1px dashed #f26522;
+    border: 1px dashed #106622;
     background:#fafafa;
 }
 blockquote p {
@@ -295,7 +294,7 @@ cite {
 }
 #submit, #searchsubmit {
     font-size: 8pt;
-    background: #f26522;
+    background: #106622;
     color: #ffffff;
     border: 1px solid #a0a0a0;
 }
@@ -316,7 +315,7 @@ dl, dd, dt {
     margin: 0px;
 }
 #footnote a {
-    color: #f26522;
+    color: #106622;
     text-decoration: none;
 }
 
