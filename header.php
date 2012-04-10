@@ -19,7 +19,7 @@
 </head>
 
 <body>
-<div align="center">
+<div id="main" align="center">
 <div id="wrapper">
 <div id="<?php yui_doc() ?>" class="<?php yui_secondary_column() ?>">
 <div id="hd">

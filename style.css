@@ -29,12 +29,13 @@ License: http://www.opensource.org/licenses/gpl-license.php
 }
 
 body {
-    background: #ffffff;
-    font-size: 9pt;
+    background: #555555;
+    font-size: 10pt;
     line-height: 1.5;
-    color: #505050;
+    color: #333333;
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
+
 img {
     border: 0px;
 }
@@ -42,12 +43,20 @@ form {
     display: inline;
 }
 #wrapper {
-    width: 90%;
     text-align:left;
+    margin:10px 40px;
+}
+
+#main {
+    background: #eeeeee;
+    margin: 0 auto;
+    max-width: 1440px;
+    min-width: 960px;
 }
 
 #hd {
     padding-bottom: 10px;
+    padding-top: 40px;
     margin-bottom: 20px;
     border-bottom: 1px solid #e0e0e0;
 }
