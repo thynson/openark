@@ -214,6 +214,7 @@ li.vategories ul {
     text-indent: 2em;
     color: #000000;
     font-size: 12pt;
+    overflow: hidden;
 }
 #commentwrap {
     margin-left: 0px;
