@@ -52,7 +52,7 @@ form {
     margin: 0 auto;
     max-width: 1280px;
     min-width: 960px;
-    box-shadow: 1px, 1px, 10px, black;
+    box-shadow: 1px 1px 10px black;
     border-radius: 10px;
 }
 
