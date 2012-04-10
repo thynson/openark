@@ -142,6 +142,7 @@ form {
 #bd {
     margin: 0px 230px 0px 0px;
     color: #505050;
+    border-right: 1px solid #e0e0e0;
 }
 
 p {
@@ -154,7 +155,6 @@ p {
     float: right;
     color:#606060;
     padding-left: 10px;
-    border-left: 1px solid #e0e0e0;
 }
 #sidebar ul {
     list-style:none outside;
@@ -222,6 +222,10 @@ li.vategories ul {
 }
 #respond {
     padding-top: 10px;
+}
+
+#yui-main {
+    margin-right: 20px;
 }
 #yui-main a {
     color: #106622;
