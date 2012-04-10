@@ -162,6 +162,7 @@ p {
 }
 #sidebar ul li {
     display: inline;
+    margin: 0 0.5em;
 }
 #sidebar ul li ul {
     list-style:none outside;
