@@ -165,9 +165,12 @@ form {
     margin-left:5px;
 }
 
-li{
+li p{
     text-indent: 0em;
-    margin: 0.5em, 1em;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+    margin-right:0em;
+    margin-left:1em;
 }
 
 li.vategories ul {
@@ -219,7 +222,7 @@ li.vategories ul {
 #yui-main h1 {
     display: inline;
     color: #106622;
-    font-size: 18pt;
+    font-size: 20pt;
     text-decoration: none;
     font-weight: normal;
     font-family: 'Times New Roman', 'DejaVu Serif', serif;
