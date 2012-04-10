@@ -31,9 +31,9 @@ License: http://www.opensource.org/licenses/gpl-license.php
 body {
     background: #555555;
     font-size: 10pt;
-    line-height: 1.5;
+    line-height: 1.75;
     color: #333333;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
 }
 
 img {
